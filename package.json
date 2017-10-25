@@ -1,13 +1,13 @@
 {
-  "name": "request",
-  "description": "Simplified HTTP request client.",
+  "name": "request-modified",
+  "description": "Simplified HTTP request client. Changed personal post request requirement",
   "keywords": [
     "http",
     "simple",
     "util",
     "utility"
   ],
-  "version": "2.83.1",
+  "version": "2.83.2",
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "repository": {
     "type": "git",
