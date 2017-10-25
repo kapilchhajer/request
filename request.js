@@ -1151,7 +1151,7 @@ Request.prototype.readResponseBody = function (response) {
 
     if (self._json) {
       try {
-        response.body = JSON.parse(response.body, self._jsonReviver)
+        //response.body = JSON.parse(response.body, self._jsonReviver)
       } catch (e) {
         debug('invalid JSON received', self.uri.href)
       }
